@@ -1,0 +1,1 @@
+java -jar LogParser.jar --path=".\testlog.log"
